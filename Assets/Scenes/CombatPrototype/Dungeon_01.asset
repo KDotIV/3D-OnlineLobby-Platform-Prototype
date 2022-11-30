@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae1e0c848d54ae24da36db8c68e3ae68, type: 3}
+  m_Name: Dungeon_01
+  m_EditorClassIdentifier: 
+  _guid: 5fb9161ce473a63429f1e9720845f4f0
+  sceneReference:
+    sceneAsset: {fileID: 102900000, guid: a0a81d1a0df440f46ae40e2e3c278c1f, type: 3}
+    scenePath: Assets/Scenes/TurnBasePrototype/Dungeon_01.unity
+  shortDescription: 
+  type: 0
